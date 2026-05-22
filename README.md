@@ -14,12 +14,6 @@
 
 ## A
 
-### AiTools macOS Keychain MCP Secrets
-
-Practical demonstration of how to securely configure the GitHub MCP Server for AI coding assistants using macOS Keychain to protect credentials.
-
-[https://github.com/biagolini/AiToolsMacOsKeychainMcpSecrets](https://github.com/biagolini/AiToolsMacOsKeychainMcpSecrets)
-
 ## B
 
 ## C
@@ -43,6 +37,12 @@ Practical demonstration of how to securely configure the GitHub MCP Server for A
 ## L
 
 ## M
+
+### MacOS Keychain MCP Secrets
+
+Practical demonstration of how to securely configure the GitHub MCP Server for AI coding assistants using macOS Keychain to protect credentials.
+
+[https://github.com/biagolini/AiToolsMacOsKeychainMcpSecrets](https://github.com/biagolini/AiToolsMacOsKeychainMcpSecrets)
 
 ## N
 
